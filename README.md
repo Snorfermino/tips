@@ -36,7 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
   
   [Ray Wender Lich's UIAnimation](https://www.raywenderlich.com/113674/ios-animation-tutorial-getting-started)
 ## Notes
-Inable to complete this work, i have learnt many things about Swift and XCODE. Mostly about animation and 
+Inable to complete this work, i have learnt many things about Swift and XCODE. Most hours i spent on animation and Auto Layouts. I had used code in Naeim and Peter project in mine.
 
 ## License
 
